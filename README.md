@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @antoosb
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java, css, python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my ig: @__antoosb or antoollorensarjona@gmail.com
 
 <!---
